@@ -32,3 +32,6 @@ This is a clone of AirBnB built using Ruby, Sinatra and PostgreSQL. It was a gro
 
 ![Trello](readme_images/trello.png)
 
+## Wireframes
+
+![Wireframes](readme_images/wireframes.png)
