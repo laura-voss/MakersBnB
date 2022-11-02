@@ -12,6 +12,7 @@
 
 This is a clone of AirBnB built using Ruby, Sinatra and PostgreSQL. It was a group project as part of Makers Academy and we named our version MakersBnB.
 <br>
+<br>
 
 ## Technologies Used
 
@@ -69,6 +70,7 @@ This is a clone of AirBnB built using Ruby, Sinatra and PostgreSQL. It was a gro
 
 #### Profile
 ![Profile](readme_images/profile.png)
+<br>
 <br>
 
 ## How to install and setup
