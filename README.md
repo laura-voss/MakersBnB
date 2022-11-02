@@ -34,10 +34,12 @@ This is a clone of AirBnB built using Ruby, Sinatra and PostgreSQL. It was a gro
 ## Card Wall
 
 ![Trello](readme_images/trello.png)
+<br>
 
 ## Wireframes
 
 ![Wireframes](readme_images/wireframes.png)
+<br>
 
 ## Team approach
 
@@ -59,11 +61,31 @@ This is a clone of AirBnB built using Ruby, Sinatra and PostgreSQL. It was a gro
 #### Home
 ![Home](readme_images/home.png)
 
-### Homes
+#### Homes
 ![Homes](readme_images/homes.png)
 
-### List a Home
+#### List a Home
 ![List a Home](readme_images/list_a_home.png)
 
-### Profile
+#### Profile
 ![Profile](readme_images/profile.png)
+<br>
+
+## How to install and setup
+
+### How to run locally
+
+1. Fork this repository
+2. Clone your fork to your local machine
+3. Type `bundle install` to install dependencies
+
+### Database setup
+1. Connect to psql
+2. Create the database using the psql command CREATE DATABASE makers_bnb;
+3. Connect to the database using the pqsl command \c makers_bnb;
+4. Run the query we have saved in the file 01_create_property_database.sql
+
+### Start local server
+
+1. Type `ruby app.rb` in terminal to run local server
+2. Browse to local address given in terminal
